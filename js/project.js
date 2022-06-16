@@ -2,13 +2,13 @@ function openPage() {
     var x = document.getElementById("search").value;
     let lowerCase = x.toLowerCase()
     if (lowerCase == "bgmi") {
-        window.open("/asset/index.html");
+        window.open("index.html");
     };
     if (lowerCase == "ff") {
-        window.open("/asset/ff.html");
+        window.open("ff.html");
     };
     if (lowerCase == "cod") {
-        window.open("/asset/cod.html");
+        window.open("cod.html");
 
     };
 }
