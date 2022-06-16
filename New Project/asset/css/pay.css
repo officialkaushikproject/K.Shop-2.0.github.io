@@ -1,0 +1,76 @@
+.body_colour {
+    background-color: rgb(81, 35, 87);
+}
+
+.No1 {
+    text-align: start;
+}
+
+.pay2 {
+    /* padding: 5px; */
+    color: aliceblue;
+}
+
+.pay3 {
+    /* padding: 5px; */
+    color: rgb(235, 54, 22);
+}
+
+.makr {
+    background-color: azure;
+    border-radius: 20px;
+    color: black;
+    height: 150px;
+}
+
+.makr2 {
+    background-color: azure;
+    border-radius: 20px;
+    color: black;
+    height: 250px;
+}
+
+.makr3 {
+    background-color: azure;
+    border-radius: 20px;
+    color: black;
+    height: 150px;
+}
+
+.makr4 {
+    background-color: azure;
+    border-radius: 20px;
+    color: black;
+    height: 250px;
+}
+
+.text_left {
+    text-align: left;
+}
+
+.filled {
+    width: 590px;
+}
+
+.for_middle {
+    text-align: center;
+}
+
+.img1 {
+    height: 30px;
+    width: 100px;
+}
+
+.special {
+    font-weight: bold !important;
+    color: rgb(7, 7, 7) !important;
+    background: #46d7eb !important;
+}
+
+.botton {
+    text-align: end;
+}
+
+.Remember1 {
+    text-align: left;
+}

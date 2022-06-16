@@ -1,0 +1,68 @@
+.nav2 {
+    background-color: rgb(74, 189, 160);
+}
+
+.store2 {
+    padding: 10px;
+    border: 2px solid grey;
+    text-align: center;
+    color: darkred;
+    background-color: cornflowerblue;
+}
+
+.card-image {
+    height: 170px;
+    padding: 10px;
+    /* border: 2px solid gray; */
+    text-align: center;
+}
+
+.card-text2 {
+    text-align: center;
+}
+
+.card {
+    margin-bottom: 10px;
+}
+
+.carousel-item .row {
+    background-color: rgb(126, 139, 135);
+}
+
+.button2 {
+    text-align: center;
+    padding: 3px;
+    color: azure;
+    background-color: red;
+    /* margin: 2px solid black; */
+}
+
+.boader1 {
+    border: 2px solid gray;
+    background-color: rgb(163, 64, 167);
+}
+
+.boader2 {
+    background-color: rgb(87, 194, 171);
+    border: 4px solid gray;
+}
+
+.gun_name {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(235, 26, 235);
+}
+
+.circle {
+    border-radius: 30%;
+}
+
+.skin2 {
+    padding: 10px;
+    text-align: center;
+    border-radius: 25%;
+    background-color: rgb(40, 196, 144);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(250, 1, 1);
+    font-size: 34px;
+}
